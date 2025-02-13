@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\CourseProject\\HealthAssistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC73B4B-5BC8-481C-B601-A70F14F2CB0F}|HealthAssistant.Application\\HealthAssistant.Application.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\courseproject\\healthassistant\\healthassistant.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC73B4B-5BC8-481C-B601-A70F14F2CB0F}|HealthAssistant.Application\\HealthAssistant.Application.csproj|solutionrelative:healthassistant.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C684AD-7DD3-40ED-BC7E-9693A82DF010}|HealthAssistant.Domain\\HealthAssistant.Domain.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\CourseProject\\HealthAssistant\\healthassistant.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C684AD-7DD3-40ED-BC7E-9693A82DF010}|HealthAssistant.Domain\\HealthAssistant.Domain.csproj|solutionrelative:healthassistant.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD5349F-3675-4E62-B34C-A0541CC0299F}|HealthAssistant.Infrastructure\\HealthAssistant.Infrastructure.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\CourseProject\\HealthAssistant\\healthassistant.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD5349F-3675-4E62-B34C-A0541CC0299F}|HealthAssistant.Infrastructure\\HealthAssistant.Infrastructure.csproj|solutionrelative:healthassistant.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 572,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\CourseProject\\HealthAssistant\\HealthAssistant.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "HealthAssistant.Application\\Class1.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\CourseProject\\HealthAssistant\\HealthAssistant.Application\\Class1.cs",
+              "RelativeToolTip": "HealthAssistant.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:38:19.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\CourseProject\\HealthAssistant\\HealthAssistant.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "HealthAssistant.Domain\\Class1.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\CourseProject\\HealthAssistant\\HealthAssistant.Domain\\Class1.cs",
+              "RelativeToolTip": "HealthAssistant.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:37:41.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\CourseProject\\HealthAssistant\\HealthAssistant.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "HealthAssistant.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\CourseProject\\HealthAssistant\\HealthAssistant.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "HealthAssistant.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:36:23.745Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 226,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
